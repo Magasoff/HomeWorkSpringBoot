@@ -10,7 +10,7 @@ public class EmployeeRepositoryImpl implements EmployeeRepository {
 
     // Коллекция для имитации данных
     private List<Employee> employees = Arrays.asList(
-            new Employee("Катя", 90_000),
+            new Employee("Екатерина", 90_000),
             new Employee("Дима", 102_000),
             new Employee("Олег", 80_000),
             new Employee("Вика", 165_000));
